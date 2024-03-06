@@ -1,0 +1,17 @@
+Binary Search
+- 852 (Medium)
+- Aggressive cows(SPOJ) (Medium)
+- 33 (Medium)
+
+Sliding Window
+- 2024 (Medium)
+
+Prefix and Freq Array
+- 2971 (Medium)
+- 135 (Hard)
+
+2 Pointer
+- 1537 (Hard)
+
+Pigeon Hole
+- 134 (Medium)
