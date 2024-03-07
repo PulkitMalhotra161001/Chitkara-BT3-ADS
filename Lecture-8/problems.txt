@@ -1,6 +1,5 @@
 Binary Search
 - 852 (Medium)
-- Aggressive cows(SPOJ) (Medium)
 - 33 (Medium)
 
 Sliding Window
