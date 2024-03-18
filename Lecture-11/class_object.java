@@ -1,13 +1,3 @@
-//class 
-  // - class is a blueprint for the object
-  // - it is a logical entity
-  // - it doesn't store in a memory and don't take any space
-
-//object
-  // -  Object have some state and behaviour
-  // -  Object contains space in memory
-
-
 class Person {
   String name;
   int age;
