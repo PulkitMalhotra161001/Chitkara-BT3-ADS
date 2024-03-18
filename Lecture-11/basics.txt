@@ -21,6 +21,21 @@ Method
 -  Method body
 Types:
 1.  Method Overloading - Same function name but different parameters
-2.  Method Overriding - Same function name, same parameters but different class
+2.  Method Overriding - (Same method is in the superClass as well as in subClass. Method in the subClass overrides the method in the superClass)
 
 Pass by Value vs Pass by reference
+
+e.g. Animal (Parent class), Cat (child class)
+
+Upcasting
+Cat c = new Cat();
+Animal a = c;
+
+Downcasting
+Cat c = new Cat();
+Animal a = c;
+Cat c2 = (Cat)a; //explicit casting
+
+Super Keyword - Used by subClass when it want to refer to parentClass
+Final Keyword - Used to restrict the user. Used in variable (can't change), Method (inherit but can't override), Class (can't extend)
+Static Keyword - Used for memory management, share the same variable or method of a given class, it belongs to the class than an instance of the class.
