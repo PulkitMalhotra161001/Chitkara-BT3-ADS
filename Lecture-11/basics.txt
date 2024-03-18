@@ -1,0 +1,26 @@
+class 
+- class is a blueprint for the object
+- it is a logical entity
+- it doesn't store in a memory and don't take any space
+
+object
+-  Object have some state and behaviour
+-  Object contains space in memory
+
+Constructor
+ - Default, Parameterized, Non-Parameterized
+Types: 
+1. Constructor Overloading (Having different parameter)
+2. Constructor Overriding (Not Possible)
+
+Method
+-  Modifiers
+-  ReturnType
+-  NameofMethod
+-  Parameter's
+-  Method body
+Types:
+1.  Method Overloading - Same function name but different parameters
+2.  Method Overriding - Same function name, same parameters but different class
+
+Pass by Value vs Pass by reference
