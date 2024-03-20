@@ -112,23 +112,22 @@ public class StaticDemo {
 
 // 4. Static Classes (A class can be made static only if it is a nested class.)
 import java.io.*;
-public class GFG {
+public class University {
 
-	private static String str = "GeeksforGeeks";
+	private static String str = "Chitkara";
 
 	// Static class
 	static class MyNestedClass {
 	
 		// non-static method
 		public void disp(){ 
-		System.out.println(str); 
+			System.out.println(str); 
 		}
 	}
 
 	public static void main(String args[])
 	{
-		GFG.MyNestedClass obj
-			= new GFG.MyNestedClass();
+		University.MyNestedClass obj = new University.MyNestedClass();
 		obj.disp();
 	}
 }
