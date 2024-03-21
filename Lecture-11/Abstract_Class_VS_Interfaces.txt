@@ -1,13 +1,21 @@
 Abstract Class
-support abstract and Non-abstract methods
-Doesn’t support Multiple Inheritance
-Abstract classes can be extended by Java classes and multiple interfaces
-Abstract class members in Java can be private, protected, etc.
+- support abstract and Non-abstract methods
+- Doesn’t support Multiple Inheritance
+- Abstract classes can be extended by Java classes and multiple interfaces
+- Abstract class members in Java can be private, protected, etc.
+- Example:
+  public abstract class Vechicle{
+    public abstract void drive()
+  }
 
 
 
 Interfaces
-abstract methods only
-Supports Multiple Inheritance
-extended by Java interface only
-Interfaces are public by default (makes sense bcz it don't have body and so that subclass must provide)
+- abstract methods only
+- Supports Multiple Inheritance
+- extended by Java interface only
+- Interfaces are public by default (makes sense bcz it don't have body and so that subclass must provide)
+- Example:
+  public interface Animal{
+    void speak();
+  }
