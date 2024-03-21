@@ -88,6 +88,7 @@ class Test {
 }
 
 //----------------------------------------------interface-----------------------------------------------------------
+//interfaces don't have constructors bcz we can't instantiate them and it's method can't have body 
 // NOTE - To implement an interface we use the keyword “implements” with class.
 
 // Define an interface named Shape 
