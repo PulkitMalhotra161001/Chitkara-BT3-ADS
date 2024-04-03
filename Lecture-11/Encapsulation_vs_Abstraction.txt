@@ -1,0 +1,15 @@
+Encapsulation
+information hiding
+groups together data and methods
+data hiding and abstraction
+implementation level
+Security Reasons
+
+
+
+Abstraction
+implementation hiding
+exposing the interface to the user
+abstract classes and interface
+design-level process
+Hide unwanted info.
