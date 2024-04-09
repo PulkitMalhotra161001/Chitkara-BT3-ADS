@@ -8,7 +8,7 @@ class Solution {
         for(int i=0;i<n;i++){
             while(!st.isEmpty()&&arr[st.peek()]>=arr[i]){
                 st.pop();
-            }i
+            }
             if(st.isEmpty()){
                 le[i]=0;
             }
