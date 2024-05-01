@@ -1,3 +1,6 @@
+// Approach 1. Connected and acyclic
+// Approach 2. Connected and V-1 = E
+
 class Solution {
     public boolean isTree(int n, int m, ArrayList<ArrayList<Integer>> edges) 
     {
